@@ -1,0 +1,1 @@
+This notebook contains code for computing the essential gadgets and actions that appear in our paper, A Sufficient Condition for Quantum Advantage (arXiv link coming soon). For all other information, the reader is referred to the notebook.
