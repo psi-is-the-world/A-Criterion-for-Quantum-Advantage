@@ -1,4 +1,4 @@
-This repository contains Mathematica code for computing the essential gadgets and actions that appear in our paper, A Sufficient Condition for Quantum Advantage. For all other information, we refer the reader to the paper.
+This repository contains Mathematica code for computing the essential gadgets and actions that appear in our paper, A Criterion for Quantum Advantage. For all other information, we refer the reader to the paper.
 
 Command line download:
 
